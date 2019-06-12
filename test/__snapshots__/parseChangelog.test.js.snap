@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`parseChangelog correctly parses simple semver file 1`] = `
+Array [
+  Object {
+    "content": "
+- Removed feature
+- Added bug
+
+",
+    "date": "2009-10-10",
+    "version": "v1.0",
+  },
+  Object {
+    "content": "
+- Added feature",
+    "date": "2009-10-05",
+    "version": "v0.2",
+  },
+]
+`;

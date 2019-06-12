@@ -1,0 +1,27 @@
+{
+  "name": "parse-changelog",
+  "version": "1.0.0-alpha",
+  "description": "A simple parser for CHANGELOG markdown files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrandolino/parse-changelog.git"
+  },
+  "keywords": [
+    "changelog",
+    "parser",
+    "markdown"
+  ],
+  "author": "Claudio Brandolino <cbrandolino@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrandolino/parse-changelog/issues"
+  },
+  "homepage": "https://github.com/cbrandolino/parse-changelog#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
